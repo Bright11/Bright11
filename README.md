@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @Chika Nwazuo
+- 🌱 I’m a backend web developer
+- 🌱 proficiency in building web application using php and it's framework laravel
 - 👀 I’m interested in building new project  and learning new languages this year
 - 🌱 I’m currently learning python and it's framework Django
 - 💞️ I’m looking forward to collaborate with other programmers in building world class project
