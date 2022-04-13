@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Bright11
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Chika Nwazuo
+- 👀 I’m interested in building new project  and learning new languages this year
+- 🌱 I’m currently learning python and it's framework Django
+- 💞️ I’m looking to collaborate on with other programmers in building world class project
+- 📫 Reach me facebook @Brightwebdeveloper and on Youtube Bright C Web Developer
 
 <!---
 Bright11/Bright11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
