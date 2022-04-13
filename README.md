@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chika Nwazuo
 - 👀 I’m interested in building new project  and learning new languages this year
 - 🌱 I’m currently learning python and it's framework Django
-- 💞️ I’m looking to collaborate on with other programmers in building world class project
+- 💞️ I’m looking forward to collaborate on with other programmers in building world class project
 - 📫 Reach me facebook @Brightwebdeveloper and on Youtube Bright C Web Developer
 
 <!---
