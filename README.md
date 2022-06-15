@@ -1,5 +1,11 @@
 - 👋 Hi, I’m @Chika Nwazuo
-- 🌱 I’m a backend web developer
+- 🌱 I’m a backend and frontend web developer
+- 🌱 HTML
+- 🌱 css
+- 🌱 Bootstrap
+-     🌱 Javascript
+- 🌱 Wordpress web developer
+- 🌱 Wordpress glugin development
 - 🌱 proficiency in building web application using php and it's framework laravel
 - 👀 I’m interested in building new project  and learning new languages this year
 - 🌱 I’m currently learning python and it's framework Django
