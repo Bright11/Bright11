@@ -4,6 +4,7 @@
 - 🌱 css
 - 🌱 Bootstrap
 -     🌱 Javascript
+- 🌱 react js
 - 🌱 Wordpress developer
 - 🌱 Wordpress glugin developer
 - 🌱 proficiency in building web application using php and it's framework laravel
