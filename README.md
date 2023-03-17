@@ -4,7 +4,8 @@
 - 🌱 css
 - 🌱 Bootstrap
 -     🌱 Javascript
-- 🌱 react js
+- 🌱 React js
+- 🌱 React Native
 - Php 
 - Laravel
 - 🌱 Wordpress developer
