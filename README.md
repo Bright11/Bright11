@@ -13,7 +13,7 @@
 - 👀 I’m interested in building new project  and learning new languages this year
 - 🌱 I’m currently learning python and it's framework Django
 - 💞️ I’m looking forward to collaborate with other programmers in building world class project
-- 📫 Reach me on Linkedin <a href="https://www.linkedin.com/in/chika-nwazuo-8b43b811b/">Linkedin</a>
+- 📫 Reach me on Linkedin <a href="https://www.linkedin.com/in/chikanwazuo">Linkedin</a>
 - 📫 Visit my Website <a href="https://chikanwazuo.com/">Website</a>
 <!---
 Bright11/Bright11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
