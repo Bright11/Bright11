@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @Chika Nwazuo
-  ##🌱 I’m a backend and frontend web developer
+## 🌱 I’m a backend and frontend web developer
 ## 🌱HTML
 ## 🌱css
 ## 🌱Bootstrap
