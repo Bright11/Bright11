@@ -8,7 +8,7 @@
 ## 🌱React Native
 ## 🌱Php 
 ## 🌱Laravel
-## 🌱WordPress developer
+## 🌱WordPress
 ## 🌱python Django
 ## 🌱Flask
 - 🌱 proficiency in building web applications using PHP and its framework laravel
