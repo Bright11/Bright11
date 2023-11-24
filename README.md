@@ -7,13 +7,13 @@
 - 🌱 React js
 - 🌱 React Native
 - Php 
-- Laravel
-- 🌱 Wordpress developer
-- 🌱 python django
-- 🌱 proficiency in building web application using php and it's framework laravel
-- 👀 I’m interested in building new project  and learning new languages this year
-- 🌱 I’m currently learning python and it's framework Django
-- 💞️ I’m looking forward to collaborate with other programmers in building world class project
+## Laravel
+## 🌱 WordPress developer
+## 🌱 python Django
+- 🌱 proficiency in building web applications using PHP and its framework laravel
+- 👀 I’m interested in building new projects  and learning new languages this year
+- 🌱 I’m currently learning Python and its framework Django
+- 💞️ I’m looking forward to collaborating with other programmers in building a world-class project
 - 📫 Reach me on Linkedin <a href="https://www.linkedin.com/in/chikanwazuo">Linkedin</a>
 - 📫 Visit my Website <a href="https://chikanwazuo.com/">Website</a>
 <!---
