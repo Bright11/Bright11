@@ -1,15 +1,16 @@
-- 👋 Hi, I’m @Chika Nwazuo
-- 🌱 I’m a backend and frontend web developer
-- 🌱 HTML
-- 🌱 css
-- 🌱 Bootstrap
--     🌱 Javascript
-- 🌱 React js
-- 🌱 React Native
-- Php 
-## Laravel
-## 🌱 WordPress developer
-## 🌱 python Django
+# 👋 Hi, I’m @Chika Nwazuo
+  ##🌱 I’m a backend and frontend web developer
+## 🌱HTML
+## 🌱css
+## 🌱Bootstrap
+## 🌱Javascript
+## 🌱React js
+## 🌱React Native
+## 🌱Php 
+## 🌱Laravel
+## 🌱WordPress developer
+## 🌱python Django
+## 🌱Flask
 - 🌱 proficiency in building web applications using PHP and its framework laravel
 - 👀 I’m interested in building new projects  and learning new languages this year
 - 🌱 I’m currently learning Python and its framework Django
