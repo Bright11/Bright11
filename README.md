@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @Chika Nwazuo
 ## 🌱 I’m a backend and frontend web developer
 - Coding needs time, dedication, and patience to master, you can only master what you love doing, the projects i have built should speak for me
-  ### Languages
+  ### SKILLs 
 #### 🌱HTML, 🌱css, 🌱Bootstrap, 🌱Javascript, 🌱React js, 🌱React Native
 #### 🌱Nodejs, 🌱Php🌱Laravel, 🌱WordPress,🌱python Django,🌱Flask
 
