@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Chika Nwazuo
 ## 🌱 I’m a full-stack web developer
-- Coding needs time, dedication, and patience to master, you can only master what you love doing, the projects i have built should speak for me
+- Coding needs time, dedication, and patience to master, you can only master what you love doing, the projects I have built should speak for me
   ### SKILLs 
 #### 🌱HTML, 🌱css, 🌱Bootstrap, 🌱Javascript, 🌱React js, 🌱React Native
 #### 🌱Nodejs, 🌱Php,🌱Laravel, 🌱WordPress,🌱python Django,🌱Flask
@@ -10,7 +10,6 @@
 ### FIREBASE
 - 🌱 proficiency in building web applications using languages as mentioned above. 
 - 👀 I’m interested in building new projects  and learning new languages this year
-- 🌱 I’m currently learning Python and its framework Django
 - 💞️ I’m looking forward to collaborating with other programmers in building a world-class project
 - 📫 Reach me on Linkedin <a href="https://www.linkedin.com/in/chikanwazuo">Linkedin</a>
 - 📫 Visit my Website <a href="https://chikanwazuo.com/">Website</a>
