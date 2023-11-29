@@ -8,7 +8,7 @@
 ### MYSQL
 ### MongoDB
 ### FIREBASE
-- 🌱 proficiency in building web applications using PHP and its framework laravel
+- 🌱 proficiency in building web applications using languages as mentioned above. 
 - 👀 I’m interested in building new projects  and learning new languages this year
 - 🌱 I’m currently learning Python and its framework Django
 - 💞️ I’m looking forward to collaborating with other programmers in building a world-class project
