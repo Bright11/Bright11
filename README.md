@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Bright Safo
+# 👋 Hi, I’m @Bright
 ## 🌱 I’m a full-stack web developer
 - Coding needs time, dedication, and patience to master, you can only master what you love doing, the projects I have built should speak for me
   ### SKILLs 
