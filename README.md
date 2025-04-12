@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Bright
 ## 🌱 I’m a full-stack web developer
-- Coding needs time, dedication, and patience to master, you can only master what you love doing, the projects I have built should speak for me
+- Coding needs time, dedication and patience to master, you can only master what you love doing, the projects I built should speak for me
   ### SKILLs 
 #### 🌱HTML, 🌱css, 🌱Bootstrap, 🌱Javascript, 🌱React js, 🌱React Native
 #### 🌱Nodejs, 🌱Php,🌱Laravel, 🌱WordPress,🌱python Django,🌱Flask
