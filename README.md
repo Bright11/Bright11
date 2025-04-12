@@ -4,7 +4,7 @@
   ### SKILLs 
 #### 🌱HTML, 🌱css, 🌱Bootstrap, 🌱Javascript, 🌱React js, 🌱React Native
 #### 🌱Nodejs, 🌱Php,🌱Laravel, 🌱WordPress,🌱python Django,🌱Flask
-###  🌱Tkinter, 🌱Pyqt
+###  🌱Tkinter, 🌱Pyqt, 🌱Nextjs, 🌱Nestjs
 ### Database
 ### MYSQL
 ### MongoDB
